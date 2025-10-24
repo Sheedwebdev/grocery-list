@@ -140,7 +140,7 @@ import styled, {keyframes} from 'styled-components';
   const Form = styled.form`
     display: flex;
     gap: 15px;
-    height: 500px;
+    height: 400px;
     width: 500px;
     background: hsl(0deg 0% 100%);;
     flex-direction: column;
